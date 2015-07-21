@@ -24,12 +24,20 @@ Arquivo: AprendendoSwift - parte2 - Operadores.playground
 
 Arquivo: AprendendoSwift-parte3-StringCollectionTypes
 
-Desafio: Desafio1-MediaEscolar 
+Desafio: Desafio1-MediaEscolar
 
 
 ## Aprendendo Swift - 4# Tuplas e Condicionais
-[Link da Matéria](#)
+[Link da Matéria](https://macmagazine.com.br/2015/07/15/quaddro-macmagazine-swift-na-pratica-4-tuplas-e-condicionais/)
 
 Arquivo: AprendendoSwift-parte4-TuplaseCondicionais
 
 Desafio: Desafio2-JogoDa Velha
+
+
+## Aprendendo Swift - 5# Controle de fluxo
+[Link da Matéria](#)
+
+Arquivo: AprendendoSwift-parte4-ControleDeFluxo
+
+Desafio: Desafio3 - Tabuada
