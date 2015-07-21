@@ -38,6 +38,6 @@ Desafio: Desafio2-JogoDa Velha
 ## Aprendendo Swift - 5# Controle de fluxo
 [Link da Matéria](#)
 
-Arquivo: AprendendoSwift-parte4-ControleDeFluxo
+Arquivo: AprendendoSwift-parte5-ControleDeFluxo
 
 Desafio: Desafio3 - Tabuada
