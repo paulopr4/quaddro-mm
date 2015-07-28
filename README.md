@@ -12,12 +12,12 @@ Fontes das matérias escritas para o MacMagazine
 ## Aprendendo Swift - 1# Brincando no playground
 [Link da Matéria](https://macmagazine.com.br/2015/06/24/quaddro-macmagazine-vamos-aprender-swift/)
 
-Arquivo: AprendendoSwift-parte1.playground
+Arquivo: AprendendoSwift-parte1
 
 ## Aprendendo Swift - 2# Operadores
 [Link da Matéria](https://macmagazine.com.br/2015/07/01/quaddro-macmagazine-swift-na-pratica-2-operadores/)
 
-Arquivo: AprendendoSwift - parte2 - Operadores.playground
+Arquivo: AprendendoSwift - parte2 - Operadores
 
 ## Aprendendo Swift - 3# Strings e Collection Types
 [Link da Matéria](https://macmagazine.com.br/2015/07/08/quaddro-macmagazine-swift-na-pratica-3-string-e-collection-types/)
@@ -36,8 +36,16 @@ Desafio: Desafio2-JogoDa Velha
 
 
 ## Aprendendo Swift - 5# Controle de fluxo
-[Link da Matéria](#)
+[Link da Matéria](https://macmagazine.com.br/2015/07/22/quaddro-macmagazine-swift-na-pratica-5-controle-de-fluxo-looping/)
 
 Arquivo: AprendendoSwift-parte5-ControleDeFluxo
 
-Desafio: Desafio3 - Tabuada
+Desafio: Desafio3-Tabuada
+
+
+## Aprendendo Swift - 6# Funções
+[Link da Matéria](#)
+
+Arquivo: AprendendoSwift-parte6-funcoes
+
+Desafio: desafio4-StringReversa
