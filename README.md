@@ -44,8 +44,18 @@ Desafio: Desafio3-Tabuada
 
 
 ## Aprendendo Swift - 6# Funções
-[Link da Matéria](#)
+[Link da Matéria](https://macmagazine.com.br/2015/08/05/quaddro-macmagazine-swift-na-pratica-6-funcoes/)
 
 Arquivo: AprendendoSwift-parte6-funcoes
 
 Desafio: desafio4-StringReversa
+
+
+
+## Aprendendo Swift - 7# Closures
+[Link da Matéria](#)
+
+Arquivo: AprendendoSwift-parte7-closures
+
+Desafio: desafio5-diferenca
+
