@@ -59,3 +59,7 @@ Arquivo: AprendendoSwift-parte7-closures
 
 Desafio: desafio5-diferenca
 
+## Aprendendo Swift - 8# Optionals
+[Link da Matéria](#)
+
+Arquivo: AprendendoSwift-parte8-optionals
