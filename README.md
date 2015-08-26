@@ -53,13 +53,20 @@ Desafio: desafio4-StringReversa
 
 
 ## Aprendendo Swift - 7# Closures
-[Link da Matéria](#)
+[Link da Matéria](https://macmagazine.com.br/2015/08/12/quaddro-macmagazine-swift-na-pratica-7-closures/)
 
 Arquivo: AprendendoSwift-parte7-closures
 
 Desafio: desafio5-diferenca
 
 ## Aprendendo Swift - 8# Optionals
-[Link da Matéria](#)
+[Link da Matéria](https://macmagazine.com.br/2015/08/19/quaddro-macmagazine-swift-na-pratica-8-optionals-e-type-casting/)
 
 Arquivo: AprendendoSwift-parte8-optionals
+
+## Aprendendo Swift - 9# Enums e Structs
+[Link da Matéria](#)
+
+Arquivo: AprendendoSwift-parte9-enum-struct.playground
+
+Desafio: desafio6-blackjack
