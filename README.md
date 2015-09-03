@@ -65,8 +65,15 @@ Desafio: desafio5-diferenca
 Arquivo: AprendendoSwift-parte8-optionals
 
 ## Aprendendo Swift - 9# Enums e Structs
-[Link da Matéria](#)
+[Link da Matéria](https://macmagazine.com.br/2015/08/26/quaddro-macmagazine-swift-na-pratica-9-enums-e-structs/)
 
 Arquivo: AprendendoSwift-parte9-enum-struct.playground
 
 Desafio: desafio6-blackjack
+
+## Aprendendo Swift - 10# POO
+[Link da Matéria](#)
+
+Arquivo: AprendendoSwift-parte10-poo.playground
+
+Desafio: desafio7-pedra-papel-tesoura.playground

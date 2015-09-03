@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>14F025AC-0CCC-4E87-8D05-320B3D6F7F52</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Desafio - Pedra Papel Tesoura</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>42F783CE2B1E35616C5042A1D93238AD833D4315</key>
+		<string>https://github.com/mtrovilho/Swift-Exemplos.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>101/Playgrounds/Desafio - Pedra Papel Tesoura.playground</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>42F783CE2B1E35616C5042A1D93238AD833D4315</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mtrovilho/Swift-Exemplos.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>42F783CE2B1E35616C5042A1D93238AD833D4315</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>42F783CE2B1E35616C5042A1D93238AD833D4315</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Swift-Exemplos</string>
+		</dict>
+	</array>
+</dict>
+</plist>
