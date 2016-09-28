@@ -6,31 +6,31 @@ let diasSemana = ["Seg", "Ter", "Qua", "Qui", "Sex", "Sab", "Dom"]
 //Percorremos os dias da semana
 for dia in diasSemana{
     
-    println("Hoje é \(dia)")
+    print("Hoje é \(dia)")
     
     switch dia {
-    case "Seg": println("É difícil de acordar.")
-    case "Ter": println("Começo oficial da semana.")
-    case "Qua": println("Meio da semana do mal")
-    case "Qui": println("Tá chegando o fds")
-    case "Sex": println("Chegou a sexta! Vamos sair?")
-    case "Sab": println("Ressaca :(")
-    case "Dom": println("Gols do fantástico. Acabou :(")
+    case "Seg": print("É difícil de acordar.")
+    case "Ter": print("Começo oficial da semana.")
+    case "Qua": print("Meio da semana do mal")
+    case "Qui": print("Tá chegando o fds")
+    case "Sex": print("Chegou a sexta! Vamos sair?")
+    case "Sab": print("Ressaca :(")
+    case "Dom": print("Gols do fantástico. Acabou :(")
     default:
-        println("Que planeta você vive?")
+        print("Que planeta você vive?")
     }
     
 }
 
 
 //Percorremos de 1 a 10 no loop
-for var num = 1; num <= 10; num++ {
+for var num = 1; num <= 10; num += 1 {
     
     //Verificamos se o número é par ou impar
     if num % 2 == 0{
-        println("O numero \(num) é par")
+        print("O numero \(num) é par")
     }else{
-        println("O numero \(num) é impar")
+        print("O numero \(num) é impar")
     }
     
 }
@@ -39,8 +39,8 @@ for var num = 1; num <= 10; num++ {
 //Também podemos percorrer um array com o for
 let carros = ["La Ferrari", "BMW M3", "Mustang", "McLaren P1"]
 
-for var index = 0; index < carros.count; index++ {
-    println("Conheça meu carro. \(carros[index])")
+for var index = 0; index < carros.count; index += 1 {
+    print("Conheça meu carro. \(carros[index])")
 }
 
 
@@ -48,7 +48,7 @@ var n = 2
 
 while n < 1000 {
     n = n * 2
-    println("N vale \(n)")
+    print("N vale \(n)")
 }
 
 
@@ -58,25 +58,25 @@ var xwhile = 1
 while xwhile <= 10 {
     
     if xwhile % 2 == 0{
-        println("O número \(xwhile) é par!")
+        print("O número \(xwhile) é par!")
     }else{
-        println("O número \(xwhile) é par!")
+        print("O número \(xwhile) é par!")
     }
     
-    xwhile++
+    xwhile += 1
 }
 
 
 
 var velocidade = 10
 
-do{
+repeat{
     
     if velocidade == 10 {
-        println("Velocidade inicial garantida em \(velocidade)")
+        print("Velocidade inicial garantida em \(velocidade)")
     }
     
-    println( "Minha velocidade é \(velocidade)")
+    print( "Minha velocidade é \(velocidade)")
     velocidade = velocidade + 10
     
 }while velocidade < 100
